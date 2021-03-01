@@ -1,13 +1,21 @@
 ## Welcome to GitHub Pages
 
 [Shop For Groceries](Shop-For-Groceries.html)
+
 [Allow Reviews](Allow-Reviews.html)
-[Change Stores](Change-Stores.html)
+
+[Change Store](Change-Store.html)
+
 [Pay](Pay.html)
+
 [Refund Products](Refund-Products.html)
+
 [Select Payment](Select-Payment.html)
+
 [Verify Age](Verify-Age.html)
+
 [Verify User Information](Verify-User-Information.html)
+
 You can use the [editor on GitHub](https://github.com/flamevellguard/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
