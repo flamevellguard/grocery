@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[Register](Register.html)
+
 [Shop For Groceries](Shop-For-Groceries.html)
 
 [Allow Reviews](Allow-Reviews.html)
