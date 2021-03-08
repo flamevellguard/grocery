@@ -8,8 +8,6 @@
 
 [Change Store](Change-Store.html)
 
-[Pay](Pay.html)
-
 [Refund Products](Refund-Products.html)
 
 [Select Payment](Select-Payment.html)
@@ -23,6 +21,8 @@
 [Register](Register.html)
 
 [Logout](Logout.html)
+
+[Payment](Payment.html)
 
 You can use the [editor on GitHub](https://github.com/flamevellguard/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
